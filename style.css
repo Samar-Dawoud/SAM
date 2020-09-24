@@ -1,0 +1,147 @@
+body{
+    font: 16px/1.5 Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color:lightgrey;
+}
+header nav:hover{
+    color: blue;
+}
+#showcase{
+    background-color: whitesmoke;
+    border-radius:15px;
+      /* width: 100%;    */
+      margin:0px 80px 0px 80px  
+  }
+
+#first{
+  background-color: darkred;
+  margin: 0px;
+  padding: 0px;
+  color: darkred;
+  overflow: auto;
+}
+#second{
+margin: 0px 50px 0px 50px;
+height: 50px;
+color: darkred;
+background-color: darkred;
+padding-top: 8px;
+font-size: 13px;
+}
+#homepage:hover{
+    color: darkturquoise;
+}
+h6{
+    display: inline-block;
+    font-size: 15px;
+    margin: 30px;
+    padding: 0px;
+}
+#homepage{
+    padding: 10px;
+    color: grey;
+    font-weight: bold;
+}
+#divforimg{
+    text-align: center;
+}
+#aaup{
+    height:200px;
+    width:900px;
+    background-position: center;
+    border-image-outset: 30px;
+    border-radius:15px;
+}
+
+hr{
+    width:900px
+}
+.divforp{
+    color: grey;
+    border-style: ridge;
+    text-align: center;
+    /* font-size: 10px; */
+    margin: 0px 100px 0px 100px;
+    padding: 5px;
+    border-radius:5px;
+    border-width: 2px;
+
+}
+.wrapper{
+    overflow:hidden;
+
+}
+  .thirddiv{
+    color: grey;
+    border-style: ridge;
+    text-align: center;
+    /* font-size: 10px; */
+    /* margin:0px 600px 0px 120px ; */
+    padding: 5px;
+    border-radius:5px;
+    border-width: 2px;
+    margin-top: 0px;
+    float: left;
+    margin-left: 95px;
+    margin-right:30px;
+    width: 450px;
+
+}
+.thirddiv span:hover{
+    color: dodgerblue;
+
+}
+.fourthdiv{
+    color: grey;
+    border-style: ridge;
+    text-align: center;
+    font-size: 10px;
+     /* margin:0px 50px 1000px 600px ;  */
+    padding: 5px;
+    border-radius:5px;
+    border-width: 2px;
+    float:left;
+    width: 455px;
+    height: 400; 
+
+}
+button{
+   background-color: darkred;
+   font-size: 15px;
+   font-weight: bold;
+   border-radius:4px;
+   width: 90px;
+   height: 40px;
+   border-style: none;
+   color: whitesmoke;
+}
+footer{
+    background-color: whitesmoke;
+    padding: 20px;
+    /* margin: 20px 20px 0px 20px; */
+    color:lightslategrey;
+    text-align: center;
+    height: 200px;
+    /* margin-left:100px; */
+}
+/* div footer{
+    margin: 100px 20px 0px 100px;
+} */
+footer p{
+    border-style: ridge;
+    margin-bottom: 20px;
+}
+ 
+
+nav ul{
+    text-decoration: none;
+}
+ul li{
+    padding : 0px 0px 0px 20px;
+    display: inline;
+    color: white;
+}
+ul li:hover{
+    color:lightslategrey;
+}
